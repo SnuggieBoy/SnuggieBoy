@@ -1,4 +1,4 @@
-# Hi, I'm Le Trong Hieu 👋
+# Hi, I'm Lê Trọng Hiếu 👋
 ### Software Engineer (.NET Backend Developer)
 
 Passionate Software Engineering graduate specializing in **.NET ecosystem** and **Enterprise Backend Systems**. Experienced in architecting resilient microservices, distributed real-time pipelines, and high-concurrency transactional architectures using **.NET 10/8, Clean Architecture, SignalR, and MQTT**.
