@@ -6,7 +6,7 @@ Passionate Software Engineering graduate specializing in **.NET ecosystem** and 
 - 🔭 **Currently Focusing On:** Cloud-native architecture, distributed systems resilience, and scalable RESTful APIs.
 - 🎓 **Education:** Bachelor of Software Engineering - FPT University (HCM Campus)
 - 💼 **Roles:** .NET Developer / Backend Engineer (Fresher / Junior)
-- 📫 **Contact:** [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | **Email:** YOUR_EMAIL@gmail.com
+- 📫 **Contact:** [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | **Email:** Tronghieu848@gmail.com
 
 ---
 
