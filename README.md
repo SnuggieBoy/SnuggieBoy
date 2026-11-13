@@ -6,7 +6,7 @@ Passionate Software Engineering graduate specializing in **.NET ecosystem** and 
 - 🔭 **Currently Focusing On:** Cloud-native architecture, distributed systems resilience, and scalable RESTful APIs.
 - 🎓 **Education:** Bachelor of Software Engineering - FPT University (HCM Campus)
 - 💼 **Roles:** .NET Developer / Backend Engineer (Fresher / Junior)
-- 📫 **Contact:** [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | **Email:** Tronghieu848@gmail.com
+- 📫 **Contact:** **Email:** [Tronghieu848@gmail.com](mailto:Tronghieu848@gmail.com) | **GitHub:** [github.com/SnuggieBoy](https://github.com/SnuggieBoy)
 
 ---
 
@@ -25,14 +25,18 @@ Passionate Software Engineering graduate specializing in **.NET ecosystem** and 
 
 | Project | Tech Stack | Role & Core Highlights |
 | :--- | :--- | :--- |
-| **[SmartMarketBot-BE](https://github.com/SuperMarketBot-SU26/SuperMarketBot-BE)** | .NET 10, Clean Arch, SignalR, MQTT, Azure SQL, xUnit | **Core Backend & Real-time Lead**: Autonomous supermarket robot platform featuring Dijkstra multi-stop pathfinding, dual-channel failover (MQTT/SignalR), and 100% automated test coverage (54 tests). |
-| **[SmartParking-BE](https://github.com/SnuggieBoy/SmartParking-BE)** | .NET 8, Clean Arch, EF Core, SEPay Gateway, Cloudinary | **Lead Backend Dev (96% Codebase)**: Parking booking & FinTech platform with SEPay VietQR Webhooks, double-entry wallet ledger, and dynamic early-checkout auto-refund engine. |
+| **[SmartMarketBot](https://github.com/SnuggieBoy/SmartMarketBot)** | .NET 10, Clean Arch, SignalR, MQTT, Azure SQL, xUnit | **Core Backend & Real-time Lead**: Autonomous supermarket robot platform featuring Dijkstra multi-stop pathfinding, dual-channel failover (MQTT/SignalR), and 100% automated test coverage (54 tests). |
+| **[SmartParking](https://github.com/SnuggieBoy/SmartParking)** | .NET 8, Clean Arch, EF Core, SEPay Gateway, Cloudinary | **Lead Backend Dev (96% Codebase)**: Parking booking & FinTech platform with SEPay VietQR Webhooks, double-entry wallet ledger, and dynamic early-checkout auto-refund engine. |
 | **[TechStore](https://github.com/SnuggieBoy/TechStore)** | .NET 10, EF Core, VNPay, OpenAI API, MailKit | **Solo Backend Owner**: Modern E-Commerce Web API featuring VNPay HMAC-SHA256 transaction processing, AI shopping advisor integration, and background email dispatching. |
 
 ---
 
 ### 📊 GitHub Activity & Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnuggieBoy&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnuggieBoy&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnuggieBoy&theme=tokyonight" height="165" alt="GitHub Profile Summary" />
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SnuggieBoy&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SnuggieBoy&theme=tokyonight" height="165" alt="Top Languages" />
 </p>
