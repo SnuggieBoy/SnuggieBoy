@@ -1,33 +1,33 @@
 # Hi, I'm Lê Trọng Hiếu 👋
-### Software Engineer (.NET Backend Developer)
+### .NET Backend Developer (Fresher / Junior)
 
-Passionate Software Engineering graduate specializing in **.NET ecosystem** and **Enterprise Backend Systems**. Experienced in architecting resilient microservices, distributed real-time pipelines, and high-concurrency transactional architectures using **.NET 10/8, Clean Architecture, SignalR, and MQTT**.
+Software Engineering graduate from **FPT University** with a strong focus on **Backend Development using C# and ASP.NET Core**. I enjoy building clean, maintainable RESTful APIs, working with relational databases, and integrating real-time communication and third-party services into practical applications.
 
-- 🔭 **Currently Focusing On:** Cloud-native architecture, distributed systems resilience, and scalable RESTful APIs.
-- 🎓 **Education:** Bachelor of Software Engineering - FPT University (HCM Campus)
-- 💼 **Roles:** .NET Developer / Backend Engineer (Fresher / Junior)
+- 🌱 **Currently Learning & Practicing:** Writing clean code with SOLID principles, optimizing EF Core queries, and writing reliable Unit Tests.
+- 🎓 **Education:** Bachelor of Software Engineering — FPT University (HCM Campus)
+- 💼 **Target Role:** .NET Backend Developer (Fresher / Junior)
 - 📫 **Contact:** **Email:** [Tronghieu848@gmail.com](mailto:Tronghieu848@gmail.com) | **GitHub:** [github.com/SnuggieBoy](https://github.com/SnuggieBoy)
 
 ---
 
-### 🛠️ Core Tech Stack
+### 🛠️ Technical Skills
 
-- **Languages & Frameworks:** C#, .NET 10 / 8, ASP.NET Core Web API, Entity Framework Core, LINQ
-- **Architecture & Design:** Clean Architecture, N-Tier, SOLID Principles, Domain-Driven Design (DDD) concepts, CQRS
-- **Databases & ORM:** Microsoft SQL Server, PostgreSQL, Azure SQL Database, Supabase
-- **Real-Time & Messaging:** SignalR, MQTTnet (EMQX Broker), WebSockets, Webhooks (Idempotent processing)
-- **Security & Auth:** JWT, Claims-based Authorization, OAuth 2.0 (Google), Data Hashing (HMAC-SHA256)
-- **Testing & DevOps:** xUnit, Moq, FluentAssertions, Docker, CI/CD, Azure App Service, Git
+- **Backend & Frameworks:** C#, .NET 8 / .NET 10, ASP.NET Core Web API, Entity Framework Core, LINQ
+- **Architecture & Patterns:** Clean Architecture, N-Tier Architecture, Repository & Unit of Work, OOP, SOLID Principles, Dependency Injection
+- **Databases:** Microsoft SQL Server, PostgreSQL, Azure SQL Database
+- **Real-Time & Integrations:** SignalR, MQTT (MQTTnet), Payment Gateways (VNPay, SEPay VietQR Webhook), Cloudinary, MailKit (SMTP), OpenAI / Gemini API
+- **Authentication & Security:** JWT Bearer Authentication, Role-based Authorization, Google OAuth 2.0, BCrypt Password Hashing
+- **Testing & Tools:** xUnit, Moq, FluentAssertions, Docker, Git / GitHub, Postman, Swagger / Scalar
 
 ---
 
-### 🚀 Highlighted Engineering Projects
+### 🚀 Featured Backend Projects
 
-| Project | Tech Stack | Role & Core Highlights |
+| Project | Tech Stack | Role & Key Contributions |
 | :--- | :--- | :--- |
-| **[SmartMarketBot](https://github.com/SnuggieBoy/SmartMarketBot)** | .NET 10, Clean Arch, SignalR, MQTT, Azure SQL, xUnit | **Core Backend & Real-time Lead**: Autonomous supermarket robot platform featuring Dijkstra multi-stop pathfinding, dual-channel failover (MQTT/SignalR), and 100% automated test coverage (54 tests). |
-| **[SmartParking](https://github.com/SnuggieBoy/SmartParking)** | .NET 8, Clean Arch, EF Core, SEPay Gateway, Cloudinary | **Lead Backend Dev (96% Codebase)**: Parking booking & FinTech platform with SEPay VietQR Webhooks, double-entry wallet ledger, and dynamic early-checkout auto-refund engine. |
-| **[TechStore](https://github.com/SnuggieBoy/TechStore)** | .NET 10, EF Core, VNPay, OpenAI API, MailKit | **Solo Backend Owner**: Modern E-Commerce Web API featuring VNPay HMAC-SHA256 transaction processing, AI shopping advisor integration, and background email dispatching. |
+| **[SmartMarketBot](https://github.com/SnuggieBoy/SmartMarketBot)** | .NET 10, Clean Architecture, EF Core, SignalR, MQTT, SQL Server, xUnit | **Backend Developer (Capstone Project)**: Built RESTful APIs and real-time messaging (SignalR & MQTT) connecting the autonomous robot, staff dashboard, and mobile app. Implemented Dijkstra shortest-path routing for in-store navigation and wrote 54 unit tests for core services. |
+| **[SmartParking](https://github.com/SnuggieBoy/SmartParking)** | .NET 8, Clean Architecture, EF Core, SQL Server, SEPay, Cloudinary | **Backend Developer**: Developed the backend for a parking reservation system. Implemented booking workflows, wallet balance management, SEPay VietQR webhook processing for automated top-ups, and early-checkout fee refunds. |
+| **[TechStore](https://github.com/SnuggieBoy/TechStore)** | .NET 10, ASP.NET Core, EF Core, SQL Server, VNPay, MailKit | **Backend Developer**: Built an E-Commerce Web API supporting product catalog management, shopping cart, order processing, VNPay payment integration, Google OAuth login, automated order emails, and an AI shopping assistant endpoint. |
 
 ---
 
